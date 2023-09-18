@@ -1,0 +1,38 @@
+.greenRow {
+  color: green;
+}
+.redRow {
+  color: red;
+}
+
+h2 {
+  color: lightgrey;
+}
+h3 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: lightgrey;
+}
+
+.table {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: lightgray;
+}
+
+.table h3 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.table table {
+  border: solid white;
+}
+.table tr {
+  border: solid white;
+}
+.table td {
+  border: solid white;
+}

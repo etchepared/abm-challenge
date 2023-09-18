@@ -1,0 +1,26 @@
+/* Estilos para el navbar */
+nav {
+  background-color: #333; /* Cambia el color de fondo según tus preferencias */
+  padding: 10px 0; /* Espaciado dentro del navbar */
+}
+
+ul {
+  list-style: none; /* Quitar viñetas de la lista */
+  padding: 0; /* Eliminar relleno en la lista */
+  text-align: center; /* Centrar los elementos de la lista horizontalmente */
+}
+
+li {
+  display: inline; /* Mostrar elementos de la lista en línea (horizontalmente) */
+  margin: 0 10px; /* Espaciado entre elementos de la lista */
+}
+
+a {
+  text-decoration: none; /* Quitar decoración de texto (subrayado) en los enlaces */
+  color: #fff; /* Cambiar el color del texto de los enlaces */
+}
+
+a:hover {
+  /* Cambiar el color del texto de los enlaces al pasar el mouse */
+  color: #00e676; /* Puedes elegir el color que prefieras */
+}

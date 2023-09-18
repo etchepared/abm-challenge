@@ -1,0 +1,21 @@
+Crear ingresos
+Editar ingresos
+Crear egresos
+Editar egresos
+Mostrar balance
+
+Home
+Mostrar balance
+Mostrar últimos 10 movimientos (egresos o ingresos)
+
+ABM (Altas Bajas Modificaciones)
+Formulario operación:
+-Concepto
+-Monto
+-Fecha
+-Tipo (ingreso egreso)
+Listado ingresos y egresos:
+-Modificar o eliminar operación
+(Tipo ingreso o ingreso no modificable)
+
+Ver extras
